@@ -1,19 +1,20 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: 주식회사 만나플래닛
+  position: 기업부설연구소
+  duration:     2016년 06월 &mdash; 재직 중
+  summary: 배달 플랫폼 서비스 기업<ul class="resume-item-list"><li>오픈 멤버</li><li>flutter 주문 app 개발 메인 담당</li><li>android 배송원 app 개발 메인 담당</li><li>android 관리자 app 개발 서브 담당</li><li>android 가맹점 app 개발 서브 담당</li><li>android 공용 library 개발 담당</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: 주식회사 자안그룹
+  position: 기업부설연구소
+  duration:     2014년 11월 &mdash; 2016년 04월
+  summary: 의류 판매/렌탈 서비스 기업<ul class="resume-item-list"><li>android 쇼핑몰 앱 개발 담당</li><li>api 개발 담당</li></ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: 주식회사 지씨모바일
+  position: 개발팀
+  duration:   2013년 06월 &mdash; 2014년 10월
+  summary: 1:1 영어 강사 매칭 서비스 기업<ul class="resume-item-list"><li>android 교육 앱 개발 담당</li><li>관리자 웹 개발 및 유지보수 담당</li></ul>
+  
+- company: 주식회사 유템(KT)
+  position: 기업부설 연구소
+  duration:   2011년 02월 &mdash; 2013년 02월
+  summary: 기업용 모바일 판매 서비스 기업<ul class="resume-item-list"><li>android 기업용 앱 개발 담당</li><li>관리자 웹 개발 및 유지보수 담당</li></ul>

@@ -1,5 +1,5 @@
 # Site settings
-title: "Moon Jong Heon"
+title: "Moon Jong Heon Profile"
 description: "Moon Jong Heon Profile"
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Moon Jong Heon"
-resume_title:                   "mobile developer"
+resume_title:                   "<b>Mobile Developer</b>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "answhdgjs@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_email:           "answhdgjs@gmail.com"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>안드로이드 개발자</p>"
+resume_header_intro: "</p><li>10년차 안드로이드 개발자</li><li>개발을 즐기는 개발자</li><li>새롭게 알게된 지식을 공유 하며 커뮤니케이션을 좋아하는 개발자</li><li>개발에 중심이 되고 싶은 개발자</li><li>Email: <a href='mailto:answhdgjs@gmail.com'>answhdgjs@gmail.com</a></li><li>Blog: <a href='https://keyman4949.tistory.com/'>https://keyman4949.tistory.com/</a></li><li>GitHub: <a href='https://github.com/jongheonmoon'>https://github.com/jongheonmoon</a></li>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,11 +35,11 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_projects:        false
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
