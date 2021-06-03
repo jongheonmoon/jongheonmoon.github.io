@@ -1,10 +1,5 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
-
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: 2011 부천대학 졸업 과제 프로그래밍 금상(프로그래밍 부분 대상) 
+  organization: 부천대학
+  year: 2011
+  summary: 안드로이드 위치기반 사진전송 및 지도 서비스 (지도에서 해당 장소의 사진들을 공유 및 보관할수 있는 서비스)

@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Language
+- skill: Language
+  description: <img src="https://img.shields.io/badge/-Java-red?style=plastic">  <img src="https://img.shields.io/badge/-Kotiln-blue?style=plastic">  <img src="https://img.shields.io/badge/-Flutter-yellow?style=plastic">
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Framework
+- skill: Framework
+  description: <img src="https://img.shields.io/badge/framework-Spring-brightgreen?style=plastic">
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Database
+- skill: Database
+  description: <img src="https://img.shields.io/badge/db-Oracle-critical?style=plastic">  <img src="https://img.shields.io/badge/db-MySQL-important?style=plastic">
+
+# Tool
+- skill: Tool
+  description: <img src="https://img.shields.io/badge/Dev Tool-Android Studio-blueviolet?style=plastic">  <img src="https://img.shields.io/badge/Dev Tool-Xcode-orange?style=plastic">  <img src="https://img.shields.io/badge/Dev Tool-VsCode-9cf?style=plastic">
