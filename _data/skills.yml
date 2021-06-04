@@ -1,11 +1,11 @@
 # Skills
 # Language
 - skill: Language
-  description: <img src="https://img.shields.io/badge/-Java-red?style=plastic">  <img src="https://img.shields.io/badge/-Kotiln-blue?style=plastic">  <img src="https://img.shields.io/badge/-Dart-important?style=plastic">
+  description: <img src="https://img.shields.io/badge/-Java-red?style=plastic">  <img src="https://img.shields.io/badge/-Kotlin-blue?style=plastic">  <img src="https://img.shields.io/badge/-Dart-important?style=plastic">
 
 # Framework
 - skill: Framework
-  description: <img src="https://img.shields.io/badge/framework-Application-infomational?style=plastic">  <img src="https://img.shields.io/badge/framework-Flutter-yellowgreen?style=plastic"> <img src="https://img.shields.io/badge/framework-Spring-FF00BF?style=plastic">
+  description: <img src="https://img.shields.io/badge/framework-Flutter-yellowgreen?style=plastic"> <img src="https://img.shields.io/badge/framework-Spring-FF00BF?style=plastic">
 
 # Database
 - skill: Database
