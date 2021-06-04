@@ -1,15 +1,15 @@
 # Jobs
-- company: 주식회사 만나플래닛
+- company: <a href='http://www.manna-planet.com/'>주식회사 만나플래닛</a>
   position: 기업부설연구소
   duration:     2016년 06월 &mdash; 재직 중
   summary: 배달 플랫폼 서비스 기업<ul class="resume-item-list"><li>오픈 멤버</li><li>flutter 주문 app 개발 메인 담당</li><li>android 배송원 app 개발 메인 담당</li><li>android 관리자 app 개발 서브 담당</li><li>android 가맹점 app 개발 서브 담당</li><li>android 공용 library 개발 담당</li></ul>
 
-- company: 주식회사 자안그룹
+- company: <a href='http://www.jaanh.com/p/index.php'>주식회사 자안그룹</a>
   position: 기업부설연구소
   duration:     2014년 11월 &mdash; 2016년 04월
   summary: 의류 판매/렌탈 서비스 기업<ul class="resume-item-list"><li>android 쇼핑몰 앱 개발 담당</li><li>api 개발 담당</li></ul>
 
-- company: 주식회사 지씨모바일
+- company: <a href='http://www.gcmobile.co.kr/index.asp'>주식회사 지씨모바일</a>
   position: 개발팀
   duration:   2013년 06월 &mdash; 2014년 10월
   summary: 1:1 영어 강사 매칭 서비스 기업<ul class="resume-item-list"><li>android 교육 앱 개발 담당</li><li>관리자 웹 개발 및 유지보수 담당</li></ul>

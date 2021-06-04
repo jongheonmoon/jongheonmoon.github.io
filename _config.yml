@@ -23,7 +23,7 @@ resume_contact_email:           "answhdgjs@gmail.com"
 resume_header_contact_info:     "answhdgjs@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "</p><li>10년차 안드로이드 개발자</li><li>개발을 즐기는 개발자</li><li>새롭게 알게된 지식을 공유 하며 커뮤니케이션을 좋아하는 개발자</li><li>개발에 중심이 되고 싶은 개발자</li><li>Blog: <a href='https://keyman4949.tistory.com/'>https://keyman4949.tistory.com/</a></li><li>GitHub: <a href='https://github.com/jongheonmoon'>https://github.com/jongheonmoon</a></li>"
+resume_header_intro: "</p><li>10년차 안드로이드 개발자</li><li>개발을 즐기는 개발자</li><li>새롭게 알게된 지식을 공유 하며 커뮤니케이션을 좋아하는 개발자</li><li>개발에 중심이 되고 싶은 개발자</li><li><a href='https://keyman4949.tistory.com/'>Blog</a></li><li><a href='https://github.com/jongheonmoon'>GitHub</a></li>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,7 +35,7 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           false
