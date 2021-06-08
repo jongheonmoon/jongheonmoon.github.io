@@ -4,7 +4,7 @@
   role: <img src="https://img.shields.io/badge/language-Dart-red?style=plastic"> <img src="https://img.shields.io/badge/framework-Flutter-yellowgreen?style=plastic"> <img src="https://img.shields.io/badge/db-Oracle-yellow?style=plastic">
   duration: 2020년 12월 &mdash; Present
   url: "https://apps.apple.com/kr/developer/manna-planet-inc/id1541983982"
-  description: 마트 및 음식점 주문 플랫폼 아이폰 앱
+  description: 마트 및 음식점 주문 플랫폼 아이폰 앱 
 
 - project: 고객 주문 android 앱
   role: <img src="https://img.shields.io/badge/language-Dart-red?style=plastic"> <img src="https://img.shields.io/badge/framework-Flutter-yellowgreen?style=plastic"> <img src="https://img.shields.io/badge/db-Oracle-yellow?style=plastic">
@@ -16,19 +16,19 @@
   role: <img src="https://img.shields.io/badge/language-Java-red?style=plastic"> <img src="https://img.shields.io/badge/language-Kotlin-blue?style=plastic"> <img src="https://img.shields.io/badge/db-Oracle-yellow?style=plastic">
   duration: 2016년 6월 &mdash; Present
   url: "https://play.google.com/store/apps/developer?id=%EB%A7%8C%EB%82%98%ED%94%8C%EB%9E%98%EB%8B%9B"
-  description: 배달대행 관리자 플랫폼 안드로이드 앱
+  description: 실시간 변동사항을 확인하기위해 TCP통신하며 실시간 데이터 처리 및 Realm을 활용하여 서버 부하를 줄이기 위해 통신 최소화 및 데이터 처리 배달대행 관리자 플랫폼 안드로이드 앱
 
 - project: 배달대행 가맹점 앱
   role: <img src="https://img.shields.io/badge/language-Java-red?style=plastic"> <img src="https://img.shields.io/badge/language-Kotlin-blue?style=plastic"> <img src="https://img.shields.io/badge/db-Oracle-yellow?style=plastic">
   duration: 2016년 6월 &mdash; Present
   url: "https://play.google.com/store/apps/developer?id=%EB%A7%8C%EB%82%98%ED%94%8C%EB%9E%98%EB%8B%9B"
-  description: 배달대행 가맹점 플랫폼 안드로이드 앱
+  description: 실시간 변동사항을 확인하기위해 TCP통신하며 실시간 데이터 처리 및 Realm을 활용하여 서버 부하를 줄이기 위해 통신 최소화 및 데이터 처리 배달대행 가맹점 플랫폼 안드로이드 앱
 
 - project: 배달대행 배송원 앱
   role: <img src="https://img.shields.io/badge/language-Java-red?style=plastic"> <img src="https://img.shields.io/badge/language-Kotlin-blue?style=plastic"> <img src="https://img.shields.io/badge/db-Oracle-yellow?style=plastic">
   duration: 2016년 6월 &mdash; Present
   url: "https://play.google.com/store/apps/developer?id=%EB%A7%8C%EB%82%98%ED%94%8C%EB%9E%98%EB%8B%9B"
-  description: 배달대행 배송원 플랫폼 안드로이드 앱
+  description: 실시간 변동사항을 확인하기위해 TCP통신하며 실시간 데이터 처리 및 Realm을 활용하여 서버 부하를 줄이기 위해 통신 최소화 및 데이터 처리 배달대행 배송원 플랫폼 안드로이드 앱
 
 - project: CELECON 쇼핑몰 앱 
   role: <img src="https://img.shields.io/badge/language-Java-red?style=plastic">
@@ -78,7 +78,7 @@
   # url: "#"
   description: 휴대폰을 잃어버렸을 경우 사용하는 안드로이드 앱
 
-- project: 통일교 앱
+- project: 종교 앱
   role: <img src="https://img.shields.io/badge/language-Java-red?style=plastic"> <img src="https://img.shields.io/badge/language-Jsp-blue?style=plastic">  <img src="https://img.shields.io/badge/db-Oracle-yellow?style=plastic">
   duration: 2011년 7월 &mdash; 2011년 12월
   # url: "#"
